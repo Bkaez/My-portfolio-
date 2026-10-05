@@ -1,29 +1,63 @@
 # Blessed Kutyauripo
 
-## Engineering Technology | Electronics | Robotics | Computer Science
+### Engineering Technology | Electronics | Robotics | Computer Science
 
-I am a junior at Mississippi Valley State University studying Engineering Technology with a concentration in Electronics and a minor in Computer Science.
+I am a junior at Mississippi Valley State University studying **Engineering Technology with a concentration in Electronics** and a minor in **Computer Science**.
 
-My interests include electronics, robotics, embedded systems, sensors, and the integration of hardware with software and AI.
+My interests are centered around **electronics, robotics, embedded systems, sensors, sustainable energy, and hardware–software integration**. I enjoy building systems that connect physical hardware with intelligent software.
 
+---
 
-## Projects
+## 🚀 Featured Projects
 
-### Electric Step
-A project exploring energy generation using piezoelectric materials.
+### ⚡ Electric Step
+A prototype exploring the use of **piezoelectric materials to generate electrical energy from footsteps**.
 
-[View Electric Step Project](./Projects/BlessedKutyauripo_ElectricStep.pdf)
+**Focus:** Electronics • Energy Harvesting • Prototyping
 
-### Occupancy-Aware HVAC System
-A Raspberry Pi-based system designed to monitor building occupancy and environmental conditions to improve HVAC control and efficiency.
+[**View Project →**](./Projects/BlessedKutyauripo_ElectricStep.pdf)
 
-[View HVAC Project](./Projects/Occupancy-Aware%20HVAC%20System%20Poster%202.pdf)
+---
 
-## Interests
+### 🌡️ Occupancy-Aware HVAC System
+A Raspberry Pi-based system designed to monitor **building occupancy and environmental conditions** and use that information to improve HVAC control and efficiency.
+
+**Focus:** Raspberry Pi • Sensors • Automation • Embedded Systems
+
+[**View Project →**](./Projects/Occupancy-Aware%20HVAC%20System%20Poster%202.pdf)
+
+---
+
+## 📄 Resume
+
+[**View My Robotics & Electronics Resume →**](./BlessedKutyauripo_RoboticsResume.pdf)
+
+---
+
+## 🛠️ Areas of Interest
 
 - Electronics & Embedded Systems
 - Robotics
 - Sensors & Control Systems
+- Hardware–Software Integration
 - Artificial Intelligence & Machine Learning
 - Sustainable Energy
-- Hardware–Software Integration
+- Automation
+
+---
+
+## 🎓 Education
+
+**Mississippi Valley State University**  
+B.S. Engineering Technology — Electronics Concentration  
+Minor: Computer Science
+
+---
+
+## 📫 Connect
+
+**GitHub:** [@Bkaez](https://github.com/Bkaez)
+
+---
+
+> Building at the intersection of **hardware, robotics, and intelligent systems.**
